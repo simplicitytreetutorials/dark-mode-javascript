@@ -1,4 +1,14 @@
-/*  DARK MODE STYLES */
+/*
+ * Estilos del Modo Oscuro
+ * Autor: Orlando José-Rivera
+ * Sitio web: https://simplicitytree.com
+ * Fecha de creación: 15 de octubre de 2023
+ * Licencia: MIT
+ *
+ * Este archivo contiene los estilos específicos para activar 
+ * y aplicar el modo oscuro en el sitio web.
+ */
+
 body.dark-mode {
     background-color: #121212;
     color: #ffffff;
