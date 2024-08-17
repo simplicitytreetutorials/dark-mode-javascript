@@ -6,12 +6,18 @@ Contenido del Repositorio
 
 Este repositorio incluye todos los archivos necesarios para que puedas seguir el tutorial paso a paso:
 
-    index.html: La página web de inicio donde puedes activar y desactivar el modo oscuro.
-    css/: Carpeta que contiene:
-        styles.css: Los estilos generales de la página.
-        dark-mode.css: Los estilos específicos para activar el modo oscuro.
-    js/: Carpeta que contiene:
-        app.js: El archivo JavaScript que maneja la lógica para activar y desactivar el modo oscuro.
+    index.html: 
+    La página web de inicio donde puedes activar y desactivar el modo oscuro.
+    css/: 
+    Carpeta que contiene:
+        styles.css:
+        Los estilos generales de la página.
+        dark-mode.css: 
+        Los estilos específicos para activar el modo oscuro.
+    js/: 
+    Carpeta que contiene:
+        app.js: 
+        El archivo JavaScript que maneja la lógica para activar y desactivar el modo oscuro.
 
 Personalización
 
