@@ -1,8 +1,8 @@
 Modo Oscuro en una Web - Tutorial de YouTube
 
 En este proyecto encontrarás un ejemplo práctico de cómo implementar el modo oscuro en una página web utilizando JavaScript y CSS. Esta es el material descargable del tutorial publicado en nuestro canal de YouTube.
-Contenido del Repositorio
 
+Contenido del Repositorio
 Este repositorio incluye todos los archivos necesarios para que puedas seguir el tutorial paso a paso:
 
     index.html: La página web de inicio donde puedes activar y desactivar el modo oscuro.
