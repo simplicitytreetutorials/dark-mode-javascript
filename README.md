@@ -1,8 +1,8 @@
-Modo Oscuro en una Web - Tutorial de YouTube
+## Modo Oscuro en una Web
 
 En este proyecto encontrarás un ejemplo práctico de cómo implementar el modo oscuro en una página web utilizando JavaScript y CSS. Esta es el material descargable del tutorial publicado en nuestro canal de YouTube.
 
-Contenido del Repositorio
+## Contenido del Repositorio
 
 Este repositorio incluye todos los archivos necesarios para que puedas seguir el tutorial paso a paso:
 
@@ -19,23 +19,23 @@ Este repositorio incluye todos los archivos necesarios para que puedas seguir el
         app.js: 
         El archivo JavaScript que maneja la lógica para activar y desactivar el modo oscuro.
 
-Personalización
+## Personalización
 
 Si deseas personalizar los estilos, simplemente edita los archivos styles.css y dark-mode.css según tus necesidades. También puedes agregar más funcionalidades en app.js para mejorar la experiencia del usuario.
 
-Requerimientos
+## Requerimientos
 
 Este proyecto es muy sencillo y no requiere ningún marco de trabajo o biblioteca externa. Solo necesitas un navegador moderno que soporte HTML y CSS.
 
-Contribuciones
+## Contribuciones
 
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacer un fork y enviar un pull request! También puedes abrir un issue si encuentras algún problema o sugerencia que puedas tener.
 
-Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Puedes usarlo y modificarlo como desees, pero recuerda dar crédito si lo utilizas públicamente.
 
-Contacto
+## Contacto
 
 Si tienes alguna pregunta o duda, no dudes en contactarnos a través de nuestro sitio web https://simplicitytree.com o mediante nuestro canal de YouTube.
 
